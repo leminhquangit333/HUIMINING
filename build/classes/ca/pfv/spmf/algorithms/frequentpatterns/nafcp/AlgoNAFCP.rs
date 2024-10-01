@@ -1,0 +1,10 @@
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.FCI$1
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.ProductDb
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.Item$1
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.WPPC_Node
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.AlgoNAFCP
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.FCI
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.IntegerByRef
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.Item
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.NC
+ca.pfv.spmf.algorithms.frequentpatterns.nafcp.Product

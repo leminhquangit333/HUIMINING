@@ -1,0 +1,2 @@
+ca.pfv.spmf.algorithms.sequentialpatterns.prosecco.ProgressiveSequenceDatabase
+ca.pfv.spmf.algorithms.sequentialpatterns.prosecco.ProgressiveSequenceDatabaseCallbacks

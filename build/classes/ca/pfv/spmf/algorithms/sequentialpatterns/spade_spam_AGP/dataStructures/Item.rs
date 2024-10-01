@@ -1,0 +1,2 @@
+ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.Item
+ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.itemComparator
